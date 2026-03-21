@@ -30,3 +30,5 @@ sam = employee()
 # sam.travel()
 
 # print(type(sam))
+# hii ='hello'
+# print(id(hii))
